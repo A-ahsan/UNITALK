@@ -1,0 +1,8 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+archive.zip
+DIP_Presentation_Unified_Assistive.pptx
+.lgd-nfy0
+models/sign_model_tasks_v4.joblib

@@ -1,0 +1,8 @@
+DISPLAY=${DISPLAY:-:0} /home/hopeless/sg/.venv312/bin/python src/realtime_inference.py --camera-url "https://192.168.0.100:8080" --backend mediapipe --display-width 800 --use-roi --roi-scale 0.5 --smoothing-window 11 --min-confidence 0.60
+
+
+
+cd /home/hopeless/sg
+/home/hopeless/sg/.venv312/bin/python src/braille_gui.py
+
+/home/hopeless/sg/.venv312/bin/python src/braille_gui.py

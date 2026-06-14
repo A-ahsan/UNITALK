@@ -1,0 +1,12 @@
+numpy
+opencv-python
+mediapipe; python_version < '3.13'
+scikit-learn
+joblib
+pandas
+pyserial
+gpiozero
+RPLCD
+smbus2
+RPLCD
+smbus2
